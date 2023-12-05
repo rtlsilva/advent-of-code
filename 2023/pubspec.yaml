@@ -1,0 +1,11 @@
+name: advent_of_code
+description: Advent of Code
+
+environment:
+  sdk: ^3.1.2
+
+dependencies:
+  dartx: ^1.2.0
+
+dev_dependencies:
+  very_good_analysis: ^5.1.0
