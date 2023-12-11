@@ -5,3 +5,7 @@ export 'package:advent_of_code/solutions/day04.dart';
 export 'package:advent_of_code/solutions/day05.dart';
 export 'package:advent_of_code/solutions/day06.dart';
 export 'package:advent_of_code/solutions/day07.dart';
+export 'package:advent_of_code/solutions/day08.dart';
+export 'package:advent_of_code/solutions/day09.dart';
+export 'package:advent_of_code/solutions/day10.dart';
+export 'package:advent_of_code/solutions/day11.dart';

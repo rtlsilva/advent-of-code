@@ -1,5 +1,3 @@
-import 'dart:math';
-
 import 'package:advent_of_code/puzzle_input.dart';
 import 'package:advent_of_code/puzzle_solver.dart';
 import 'package:dartx/dartx.dart';
